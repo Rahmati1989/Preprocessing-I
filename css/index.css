@@ -206,6 +206,16 @@ table {
   margin: 10px;
   padding: 10px;
 }
+.first-table h1 {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+.secont-table h1 {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
 footer {
   text-align: center;
   padding: 10px;
